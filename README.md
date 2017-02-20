@@ -21,7 +21,7 @@
   * ##### 描述：
   
     - jquery.ztree.search.js必须在jquery.ztree.all.min.js下方引入
-    - 点击search按钮，zTree对象zTreeObj在页面上的显示状态就为按输入框中值搜索后的结果，清空输入框会擦出高亮展示，tree视图不改变
+    - 点击search按钮，zTree对象zTreeObj在页面上的显示状态就为按输入框中值搜索后的结果，清空输入框会擦除高亮展示，tree视图不改变
   
 
 > ## 文档
