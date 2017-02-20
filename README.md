@@ -71,4 +71,3 @@
       延时调用方法searchNodes(value)，参数delay默认500毫秒，也可以通过setting.view.delayTime设置，方法中的delay优先级高于setting中的delayTime
       
       文本框的键盘事件触发搜索建议使用该方法，否则会导致树不断收缩和展开，同时也可能发生树收缩后无法展开的问题
-      
