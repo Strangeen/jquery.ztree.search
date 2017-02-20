@@ -8,6 +8,7 @@
 * ### 示例代码1：
   
   ```html
+  <script type="text/javascript" src="jquery.ztree.all.min.js"></script>
   <script type="text/javascript" src="jquery.ztree.search.js"></script>
   <script type="text/javascript">
     var zTreeObj = $.fn.zTree.init($("#tree"), setting, zNodes);
@@ -19,8 +20,8 @@
   
   * ##### 描述：
   
-    - jquery.ztree.all.min.js引入&lt;script&gt;标签下方引入jquery.ztree.search.js
-    - 点击search按钮，zTree对象zTreeObj在页面上的显示状态就为按输入框中值搜索后的结果，输入''会擦出高亮展示，tree视图不改变
+    - jquery.ztree.search.js必须在jquery.ztree.all.min.js下方引入
+    - 点击search按钮，zTree对象zTreeObj在页面上的显示状态就为按输入框中值搜索后的结果，清空输入框会擦出高亮展示，tree视图不改变
   
 
 > ## 文档
