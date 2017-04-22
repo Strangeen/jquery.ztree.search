@@ -1,6 +1,6 @@
 /**
  * JQuery zTree search v1.0
- * https://juwends.com
+ * https://www.juwends.com
  * 
  * Copyright (c) 2017 dinghui.ye
  *
